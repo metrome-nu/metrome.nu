@@ -12,11 +12,13 @@ Latest version: [1.0.0 (pre-release)](https://github.com/metrome-nu/metrome.nu/r
 
 ## features
 * **Embedding**: Embedding in windows explorer for files, folders and other objects to easily add items to the menu
-* **Icons**: Extract quality icons for programs and folders (including support for custom icons for folders)
-* **Colors**: Automatic detection of the background color for the tile based on the color of the icon
+* **Icon**: Extract quality icons for programs and folders (including support for custom icons for folders)
+* **Color**: Automatic detection of the background color for the tile based on the color of the icon
 
 ## todo
 * **Layout**: Using grid-layout with the ability to place icons on the grid, and not just one after the other
 * **Customization**: Full appearance customization (including size, padding, colors, etc.)
+* **Size**: Support for tiles of different sizes
 * **Zoom**: Changing the scale of the menu (and automatic substring of the scale to the monitor)
 * **Monitor**: Support for two or more monitor configurations
+* **Widget**: Embed widget system support
